@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /privacy-policy.html
+Disallow: /terms-conditions.html
+
+Sitemap: https://dpainteriors.in/sitemap.xml
